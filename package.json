@@ -1,0 +1,16 @@
+{
+  "name": "omarchy-presentation",
+  "version": "1.0.0",
+  "description": "A short reveal.js talk about Omarchy, themed to match it.",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "reveal.js": "^6.0.2"
+  },
+  "private": true
+}
